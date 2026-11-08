@@ -1,0 +1,28 @@
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Python virtual environments
+.venv/
+venv/
+env/
+
+# Windows temporary files
+Thumbs.db
+Desktop.ini
+
+# macOS files
+.DS_Store
+
+# Editor folders
+.vscode/
+.idea/
+
+# Log files
+*.log
